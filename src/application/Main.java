@@ -363,6 +363,8 @@ public class Main extends Application {
 									flag = true;
 									break;
 								}
+							if (flag)
+								break;
 
 						}
 					}
@@ -428,6 +430,8 @@ public class Main extends Application {
 									flag = true;
 									break;
 								}
+							if (flag)
+								break;
 
 						}
 						if (flag) {
